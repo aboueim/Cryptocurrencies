@@ -16,12 +16,12 @@ In this project I intend to help Accountability Accounting, a prominent investme
 
 ### 3D Scatter Plot of the Cluster (Based on the PCA data)
 
-![This is an image](3Dscatter_with_PCA.png)
+![This is an image](Images/3Dscatter_with_PCA.png)
 
 ### Tradable Cryptocurrencies Table
 
-![This is an image](Table.png)
+![This is an image](Images/Table.png)
 
 ### hvplot Scatter Plot ("TotalCoinsMined" against "TotalCoinSupply")
 
-![This is an image](hvplotScatter.png)
+![This is an image](Images/hvplotScatter.png)
