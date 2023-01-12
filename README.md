@@ -7,9 +7,12 @@ In this project I intend to help Accountability Accounting, a prominent investme
 
 ## Results
 
+* The dataset and jupyter notebook file including the codes for the analysis are stored in the **"Resources"** folder.
+* The screenshots are saved in the "Images" folder.
+
 ### Elbow Curve
  
-![This is an image](ElbowCurve.png)
+![This is an image](Images/ElbowCurve.png)
 
 ### 3D Scatter Plot of the Cluster (Based on the PCA data)
 
